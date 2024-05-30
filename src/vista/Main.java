@@ -12,7 +12,7 @@ public class Main {
     //1.- MÉTODO TRADUCTOR O INTERPRETE
     public static void main(String[] args) { //Todo se va a mostrar en la consola
         System.out.println("HOLA");
-        //DECLARACIÓN DE LISTA
+        //DECLARACIÓN DE LISTA.
         String[] listaDatos = new String[5];
         //VARIABLES
         System.out.println("DATOS DEL USUARIO:");
