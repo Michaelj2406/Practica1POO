@@ -8,7 +8,7 @@ package vista;
  *
  * @author LENOVO
  */
-public class Main {
+public class MainEstructurada {
     //1.- MÉTODO TRADUCTOR O INTERPRETE
     public static void main(String[] args) { //Todo se va a mostrar en la consola
         System.out.println("HOLA");
